@@ -11,8 +11,6 @@ So the Mouse created this little project with the help from a video and API docu
 
 All was quiet in the deep dark wood.  
 The Gruffalo found OUnit and the unit tests were good.  
-And the Mouse got paid a lot.
+And the Mouse got hired as a consultant by a hedge fund.
 
-As you can see, i like to plagiarise and i suck at poetry, too. But now, at least, i know how to unit test my OCaml code.
-
-:squirrel:
+:shipit: :rocket:
